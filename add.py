@@ -1,5 +1,5 @@
-a=1
-b=2
+a=6
+b=30
 print(a+b)
 
 print(a)
